@@ -7,4 +7,6 @@ Grabs the price of an item that's located in a HepsiBurada website.
 *Output*: Price
 
 Usage : python getPriceData.py <URL>
+  
+  
 Additionally, run "pip install -r requirements.txt" if any packages are missing
